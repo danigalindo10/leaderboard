@@ -8,7 +8,6 @@
 - CSS
 - JavaScript ES6
 - Webpack
-- Jest
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.

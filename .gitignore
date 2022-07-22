@@ -1,3 +1,2 @@
-node_modules
-.lighthouseci
-hint-report
+node_modules/
+hint-report/
