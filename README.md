@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard: Setup
-> For this project I created a leaderboard.
+# Leaderboard: Hit the API
+> For this project I created a leaderboard. Sending and receiving data from/to the leaderboard API.
 
 ## Built With
 - HTML
